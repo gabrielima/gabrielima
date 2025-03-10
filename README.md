@@ -1,7 +1,18 @@
-### Hey 👋
+# Hi there, I'm Gabriel Lima 👋
 
-I am a software engineer with > 9 years of experience in web development. Most of my work has been in enterprise solutions, and between full-time job, consulting and freelancing, I haven't been able to work on open source or public projects. Hence this very empty github profile.
+### Senior Software Engineer | Full-Stack Developer | Web Enthusiast 🇧🇷
 
-- 🔭 I’m currently working with Java (Spring Boot) and Angular
-- 🌱 I’m currently learning Python and Data Science
-- 📫 How to reach me: [gabrielima.com](https://gabrielima.com)
+I am a software engineer with over **9 years of experience** in web development. Throughout my career, I have contributed to several enterprise-level projects across industries such as **finance**, **health**, and more. My focus is on creating high-performance and user-friendly solutions.
+
+🔭 **Currently working with**:
+- Full-Stack Development using **Java (Spring Boot)** and **Angular**
+- Building **browser extensions** with **Typescript**
+
+🌱 **Currently learning**:
+- **Python** and **Data Science**
+
+📫 **How to reach me**: [gabrielima.com](https://gabrielima.com)
+
+---
+
+Feel free to browse my repositories and get in touch if you have any questions or collaboration ideas!
